@@ -49,6 +49,7 @@ class AddProject extends Component {
               <br/>
               <input type="submit" value="Submit" />
               <br/>
+              <p>This is login submit part.</p>
           </form>
       </div>
     );
